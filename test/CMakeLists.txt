@@ -1,0 +1,4 @@
+add_subdirectory(basic)
+add_subdirectory(serializer)
+add_subdirectory(tinycontrolpolicies)
+add_subdirectory(tinymatrixmath)
